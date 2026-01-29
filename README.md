@@ -1,7 +1,7 @@
 # Nespresso Market Research Proposal (ST3188)
 
 ## Overview
-This repository contains a market research proposal developed for the University of London module ST3188 – Statistical Methods for Market Research.  
+This repository contains a market research proposal developed for the University of London module ST3188 - Statistical Methods for Market Research.  
 The project uses Nespresso as a case company to design a research approach addressing customer preferences, satisfaction drivers, and sustainability perceptions in the premium coffee market.
 
 The focus is on research design and statistical planning, rather than conducting real fieldwork or running live SPSS analysis.
